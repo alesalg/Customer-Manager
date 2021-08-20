@@ -1,5 +1,5 @@
-from django.views.generic import ListView, CreateView, UpdateView
-from django.views.generic.edit import UpdateView
+from django.views.generic import ListView, CreateView, UpdateView, DeleteView
+from django.views.generic.edit import DeleteView, UpdateView
 from .models import Customer
 from .forms import CustomerForm
 from django.urls import reverse
@@ -34,4 +34,10 @@ class CustomerUpdateView(UpdateView):
     def get_success_url(self):
         return reverse("customer:customer-list")
 
-    
+class CustomerDeleteView(DeleteView):
+    def get_object(self):
+        id = self.kwargs.get("id")
+        return get_object_or_404(Customer, id=id)
+
+    def get_success_url(self):
+        return reverse("customer:customer-list")
