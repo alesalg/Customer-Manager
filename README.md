@@ -15,7 +15,7 @@ Senha: admin
 https://github.com/alesalg/Customer-Manager.git
 
 
-## 1 ) Comando para instalar dependencias
+## 1 ) Comando para instalar dependências
 
 >pip install -r requirements.txt
 ## 2 ) Comando para subir na porta local
@@ -27,6 +27,6 @@ E pronto ele vai rodar na porta [localhost:8000](http://127.0.0.1:8000/)
 ### Django Documentation
 - [Django Doc](https://docs.djangoproject.com/en/3.1/)
 
-### IDE Utilizada foi a Visual Code
+### IDE Utilizada: Visual Code
 - [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
