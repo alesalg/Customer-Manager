@@ -1,5 +1,7 @@
 <h1 align="center">Controle de Clientes com Django - Python</h1>
 
+O projeto trata-se da elaboração de um CRUD de Cliente utilizando Python, Django e Bootstrap com autenticação. 
+
 # Para acessar a aplicação online clique no link abaixo:
 [CRM - Controle de clientes](https://crm-alesalg.herokuapp.com/login/?next=/)
 
