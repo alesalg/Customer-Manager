@@ -18,7 +18,7 @@ https://github.com/alesalg/Customer-Manager.git
 ## 1 ) Comando para instalar dependencias
 
 >pip install -r requirements.txt
-## 2 ) Comando para subir na porta loca
+## 2 ) Comando para subir na porta local
 
 >python manage.py runserver
 
