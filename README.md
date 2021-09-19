@@ -32,3 +32,15 @@ E pronto ele vai rodar na porta [localhost:8000](http://127.0.0.1:8000/)
 ### IDE Utilizada: Visual Code
 - [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
+## Imagem
+
+### 1 ) Tela Login 
+<div>
+<img src="https://user-images.githubusercontent.com/73660994/133929871-e082e726-da41-4dcb-867d-266d87dcdafd.png" width="500px"/>
+</div>
+
+### 2 ) Tela Cadastro 
+<div>
+<img src="https://user-images.githubusercontent.com/73660994/133929933-5963f43c-e0fd-4ddb-bb82-05a08ad95bdd.png" width="500px"/>
+</div>
+
